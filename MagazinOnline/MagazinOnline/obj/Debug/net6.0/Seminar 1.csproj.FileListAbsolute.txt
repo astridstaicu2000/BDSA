@@ -1,0 +1,82 @@
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\appsettings.Development.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\appsettings.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.staticwebassets.runtime.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.exe
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.deps.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.runtimeconfig.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\ref\Seminar 1.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Seminar 1.pdb
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Azure.Core.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Azure.Identity.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Humanizer.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.CodeDom.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Memory.Data.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Text.Json.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.csproj.AssemblyReference.cache
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.AssemblyInfoInputs.cache
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.AssemblyInfo.cs
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.csproj.CoreCompileInputs.cache
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.MvcApplicationPartsAssemblyInfo.cache
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.RazorAssemblyInfo.cache
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.RazorAssemblyInfo.cs
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\scopedcss\bundle\Seminar 1.styles.css
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\scopedcss\projectbundle\Seminar 1.bundle.scp.css
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.csproj.CopyComplete
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\ref\Seminar 1.dll
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.pdb
+C:\facultate\MasterBDSA\MasterBDSA\Seminar 1\obj\Debug\net6.0\Seminar 1.genruntimeconfig.cache
